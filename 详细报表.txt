@@ -1,0 +1,303 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.1021.1300.108
+  时间:             2021-04-08 20:43:58
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            联想 ThinkPad X230 笔记本电脑
+  操作系统            Windows 10 64位 ( DirectX 12 )
+
+  处理器              英特尔 第三代酷睿 i5-3320M @ 2.60GHz 双核
+  主板                联想 2324AB3 ( QM77 Express 芯片组 )
+  主显卡              英特尔 HD Graphics 4000 ( 32 MB / 联想 )
+  内存                16 GB ( 金镁迪 DDR3L 1600MHz )
+  主硬盘              希捷 ST2000LX001-1RG174 ( 2 TB )
+  显示器              联想 LEN40E0 ( 12.5 英寸  )
+  声卡                瑞昱 ALC269 @ 英特尔 Realtek ALC662 Audio Controller
+  网卡                英特尔 82579LM Gigabit Network Connection / 联想
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+  主机编号		2324AB3R9WPH73
+  主板型号            联想 2324AB3
+  芯片组              QM77 Express 芯片组
+  序列号              1ZSWG3CF1TH
+  主板版本            Not Defined
+  BIOS版本            联想 G2ET97WW (2.57 )  /  BIOS程序发布日期: 10/25/2013
+  BIOS的大小          12288 KB
+
+  板载设备            IBM Embedded Security hardware / 其他 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 第三代酷睿 i5-3320M @ 2.60GHz 双核
+  步进                E1
+  速度                2.60 GHz (100 MHz x 26.0)
+  处理器数量          核心数: 2 / 线程数: 4
+  核心代号            Ivy Bridge
+  生产工艺            22 纳米
+  插槽/插座           Socket BGA1023
+  一级数据缓存        2 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        2 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            2 x 256 KB, 8-Way, 64 byte lines
+  三级缓存            3 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                希捷 ST2000LX001-1RG174
+  大小                2 TB
+  转速                5400 转/分
+  缓存                128 MB
+  硬盘已使用          共 3644 次，累计 3563 小时
+  固件                SDM1
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+  产品                aigo U350 USB Device
+  大小                253 GB
+  固件                1100
+  特征                S.M.A.R.T
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM0      金镁迪 DDR3L 1600MHz 8GB
+  制造日期            2019 年 36 周
+  型号                7F7F7F7F7F7F7F7F7F7F26 M471B1G73DH0-BK0
+  序列号              979A697A
+  厂商                jinmeidi
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.35V
+
+  ChannelB-DIMM0      金镁迪 DDR3L 1600MHz 8GB
+  制造日期            2019 年 36 周
+  型号                7F7F7F7F7F7F7F7F7F7F26 M471B1G73DH0-BK0
+  序列号              979A697A
+  厂商                jinmeidi
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.35V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  主显卡              英特尔 HD Graphics 4000
+  显存                32 MB
+  制造商              联想
+  制造商              Intel
+  驱动版本            10.18.10.5059
+  驱动日期            20180816
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                联想 LEN40E0
+  厂商                联想
+  固件程序日期        2010 年 (非显示器制造日期)
+  屏幕尺寸            12.5 英寸 (277 毫米 x 156 毫米)
+  显示比例            宽屏 16 : 9
+  分辨率              1366 x 768 32 位真彩色
+  Gamma               2.20
+  电源管理            Standby, Suspend, Active-Off
+  最大分辨率          1366 x 768
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  网卡                英特尔 82579LM Gigabit Network Connection
+  制造商              联想
+
+  无线网卡            英特尔 Centrino Advanced-N 6205 AGN
+
+  声卡                瑞昱 ALC269 @ 英特尔 Realtek ALC662 Audio Controller
+
+  键盘                PS/2 标准键盘
+  键盘                HID 标准键盘
+  鼠标                Synaptics 指点杆
+  鼠标                HID-compliant 鼠标
+
+  摄像头              Chicony Electronics Co., Ltd Integrated Camera
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Ivy Bridge DRAM Controller
+  设备ID              0154
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                HD Graphics 4000
+  设备ID              0166
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Panther Point USB xHCI Host Controller
+  设备ID              1E31
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Panther Point MEI Controller #1
+  设备ID              1E3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Panther Point KT Controller
+  设备ID              1E3D
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Serial - 16550
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                82579LM Gigabit Network Connection
+  设备ID              1502
+  制造商              Intel
+  制造商ID            8086
+  类别                Network / Ethernet
+  子系统制造商        Lenovo
+  子系统ID            21F317AA
+
+  设备                Panther Point USB Enhanced Host Controller #2
+  设备ID              1E2D
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Realtek ALC662 Audio Controller
+  设备ID              1E20
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Panther Point PCI Express Root Port 1
+  设备ID              1E10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Panther Point PCI Express Root Port 2
+  设备ID              1E12
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Panther Point PCI Express Root Port 3
+  设备ID              1E14
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Panther Point USB Enhanced Host Controller #1
+  设备ID              1E26
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                QM77 Express Chipset LPC Controller
+  设备ID              1E55
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Panther Point 6 port SATA Controller
+  设备ID              1E03
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Panther Point SMBus Controller
+  设备ID              1E22
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                Panther Point Thermal Management Controller
+  设备ID              1E24
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Lenovo
+  子系统ID            21FA17AA
+
+  设备                RTS5229 PCI Express Card Reader
+  设备ID              5229
+  制造商              Realtek
+  制造商ID            10EC
+  类别                 / 
+  子系统制造商        Lenovo
+  子系统ID            21F317AA
+
+  设备                Centrino Advanced-N 6205 AGN
+  设备ID              0085
+  制造商              Intel
+  制造商ID            8086
+  类别                Network / Other
+  子系统制造商        Intel
+  子系统ID            13118086
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            090C
+  产品ID              3267
+  类别                0 / 0 / 0
+  设备                aigo MiniKing
+  Serial              AA00000000007536
+
+  制造商ID            18F8
+  产品ID              0F97
+  类别                0 / 0 / 0
+  设备                ? USB OPTICAL MOUSE
+  Serial              ?
+  版本                USB 1.1
+
+  制造商ID            147E
+  产品ID              2020
+  类别                0 / 0 / 0
+  设备                 
+  版本                USB 1.1
+
+  制造商ID            0A5C
+  产品ID              21E6
+  类别                255 / 1 / 1
+  设备                 
+  版本                USB 2.0
+
+  描述                Chicony Electronics Co., Ltd Integrated Camera
+  制造商ID            04F2
+  产品ID              B44D
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  CPU温度             53℃
+  CPU核心             53℃
+  CPU封装             59℃
+  硬盘温度            38℃
+

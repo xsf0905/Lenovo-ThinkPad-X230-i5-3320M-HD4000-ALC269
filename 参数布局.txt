@@ -1,0 +1,9 @@
+声卡
+ALC269 layout 18
+PciRoot(0x0)/Pci(0x1b,0x0)
+layout-id 12000000
+
+显卡
+PciRoot(0x0)/Pci(0x2,0x0)
+AAPL,ig-platform-id 03006601
+device-id 66010000 

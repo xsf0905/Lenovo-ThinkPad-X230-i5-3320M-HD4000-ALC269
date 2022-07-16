@@ -1,0 +1,15 @@
+ACPI 全称为Advanced Configuration and Power Interface即高级配置和电源管理接口
+是由HP、Intel、Microsoft、Phoenix和Toshiba共同开发，用来定义能够为主板上设备提供操作系统配置和电源管理的硬件和软件接口的公开的行业规范。它能在操作平台独立的方式下描述系统硬件并且以固定格式的数据结构或者AML形式表示，最主要的AML表便是DSDT（differentiated system description table）。
+
+DSDT是最大也是最重要的表因为它描述了主板上的设备，DSDT和其他ACPI表是储存在BIOS而且只描述主板上的硬件。因为Windows的优化可能会导致一些错误，所以我们需要用一些符合OS X系统需要的声明来绕过之前有错误的DSDT表从而使兼容性更可能的好。
+
+# Linux平台提取DSDT SSDT：
+sudo cp -r  /sys/firmware/acpi/tables/* . 
+for i in `find ./*`; do  if [ -f "$i" ];then mv $i $i.aml; fi; done
+
+# Linux平台提取asound：
+sudo find  /proc/asound/ -name codec#0
+sudo -s cat /proc/asound/card0/codec# > ./codec#0.txt
+
+# Linux平台提取声卡id，但是提取的有时和Windows下的不同，当windows下的无效时可以试试：
+slpci -nn|grep Audio
