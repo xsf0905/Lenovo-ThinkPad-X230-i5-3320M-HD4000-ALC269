@@ -1599,11 +1599,11 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02203303QXF16PCB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1611,9 +1611,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro10,2</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02H400JDR53</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>1ABF02DD-B60F-40BC-9EAE-E8454835386E</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
